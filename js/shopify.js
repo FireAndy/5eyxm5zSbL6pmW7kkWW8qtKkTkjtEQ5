@@ -69,7 +69,7 @@
             "margin-top": "8px",
           },
           "button": {
-            "background-color": "#b1c9e9",
+            "background-color": "#ffbf25",
             "padding-left": "12px",
             "padding-right": "12px",
             "width": "100%",
@@ -80,7 +80,7 @@
               "width": "100%",
             },
             ":hover": {
-              "background-color": "#9eb9e3"
+              "background-color": "#f8e450"
             },
             ":focus": {
               "background-color": "#387bb8"

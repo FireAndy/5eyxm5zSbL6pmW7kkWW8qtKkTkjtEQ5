@@ -300,7 +300,7 @@ h5 {
 -----------------------------------------*/
 
 header {
-    background: url(../images/big/camilla%20.jpg) no-repeat center top fixed;
+    background: url(../images/big/camilla.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
 }
@@ -647,7 +647,7 @@ header .intro-section .buttons {
 }
 
 .features .phone-image {
-    max-width: 220px;
+    max-width: 350px;
     margin: auto;
     margin-bottom: 40px;
 }
@@ -678,7 +678,7 @@ header .intro-section .buttons {
 }
 
 .app-brief .phone-image {
-    max-width: 350px;
+    max-width: 142px;
     margin: auto;
     margin-bottom: 50px;
 }
@@ -986,7 +986,7 @@ object {
    SECTION:  DOWNLOAD
 -----------------------------------------*/
 .download {
-    background: url('../images/big/enfirkantetsoe.jpg') no-repeat center fixed;
+    background: url('../images/big/enfirkantetsoe2.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
     background-size: cover;
     color: #ffffff;
@@ -1036,7 +1036,7 @@ object {
 -----------------------------------------*/
 
 footer {
-    background: black;
+    background: #b1c9e9;
     color: white;
 }
 footer h2 {
