@@ -303,7 +303,8 @@ header {
     background: url(../images/big/camilla.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
-	transition: background-image 2s linear;
+	transition: background-image 2s ease;
+	-webkit-transition: background-image 2s ease;
 }
 
 header .color-overlay {
