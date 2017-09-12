@@ -14,7 +14,7 @@ $(document).ready(function() {
 	var carousel = function(){
 			$('header')
 				.css('background-image','url("'+ carouselImages[caroIndex] + '")')
-				.fadeIn(1000, function(){setTimeout(carousel,20000);});
+				.fadeIn(1000, function(){setTimeout(carousel,15000);});
 		caroIndex++;
 		caroIndex = caroIndex % carouselImages.length;
 	};

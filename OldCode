@@ -1,0 +1,341 @@
+<!-- =========================
+     FEATURES
+============================== -->
+<section class="features" id="features">
+
+<div class="container">
+
+  <!-- SECTION HEADER -->
+  <div class="section-header wow fadeIn animated" data-wow-offset="120" data-wow-duration="1.5s">
+
+    <!-- SECTION TITLE -->
+    <h2 class="dark-text">EZYPRO SHAKES</h2>
+    <div class="colored-line">
+    </div>
+    <div class="section-description">
+      <span class="lang-en">The easy way to protein</span>
+      <span class="lang-da">Den lette vej til protein</span>
+    </div>
+    <div class="colored-line">
+    </div>
+  </div>
+  <!-- /END SECTION HEADER -->
+
+
+  <div class="row">
+
+    <!-- FEATURES LEFT -->
+    <div class="col-md-4 col-sm-4 features-left wow fadeInLeft animated" data-wow-offset="10" data-wow-duration="1.5s">
+
+      <!-- FEATURE -->
+      <div class="feature">
+
+        <!-- ICON -->
+        <div class="icon-container">
+          <div class="icon">
+            <i class="icon_genius"></i>
+          </div>
+        </div>
+
+        <!-- FEATURE HEADING AND DESCRIPTION -->
+        <div class="feature-details">
+          <h4 class="main-color">
+            <span class="lang-en">Highest quality</span>
+            <span class="lang-da">Højeste kvalitet</span>
+          </h4>
+          <p>
+            <span class="lang-en">
+              EZYPRO consists of a <strong>100% whey protein</strong> isolate of the highest quality
+            </span>
+            <span class="lang-da">
+              EZYPRO består af <strong>100% valle&shy;protein&shy;isolat</strong> af den højeste kvalitet
+            </span>
+          </p>
+        </div>
+
+      </div>
+      <!-- /END SINGLE FEATURE -->
+
+      <!-- FEATURE -->
+      <div class="feature">
+
+        <!-- ICON -->
+        <div class="icon-container">
+          <div class="icon">
+            <i class="icon_mug"></i>
+          </div>
+        </div>
+
+        <!-- FEATURE HEADING AND DESCRIPTION -->
+        <div class="feature-details">
+          <h4 class="main-color">
+            <span class="lang-en">Great taste</span>
+            <span class="lang-da">Fantastisk smag</span>
+          </h4>
+          <p>
+            <span class="lang-en">
+              With no sugar added and our mixing filter, the taste of the EZYPRO is more rich, <strong>more natural</strong> and it has a more liquid texture
+            </span>
+            <span class="lang-da">
+              EZYPRO smager skønt og teksturen er <strong>naturlig</strong>.<br>
+              Helt uden tilsætningsstoffer
+            </span>
+          </p>
+        </div>
+
+      </div>
+      <!-- /END SINGLE FEATURE -->
+
+      <!-- FEATURE -->
+      <div class="feature">
+
+        <!-- ICON -->
+        <div class="icon-container">
+          <div class="icon">
+            <i class="icon_hourglass"></i>
+          </div>
+        </div>
+
+        <!-- FEATURE HEADING AND DESCRIPTION -->
+        <div class="feature-details">
+          <h4 class="main-color">
+            <span class="lang-en">Longer shelf life</span>
+            <span class="lang-da">Længere holdbarhed</span>
+          </h4>
+          <p>
+            <span class="lang-en">
+             Since the shake is not ready-to-drink, it has a longer shelf life. Approx. <strong>2&nbsp;years</strong>
+            </span>
+            <span class="lang-da">
+              Da shaken ikke er &quot;ready-to-drink&quot;, har den en lang holdbarhed. ca.&nbsp;<strong>2&nbsp;år</strong>
+            </span>
+          </p>
+        </div>
+
+      </div>
+      <!-- /END SINGLE FEATURE -->
+
+    </div>
+    <!-- /END FEATURES LEFT -->
+
+    <!-- PHONE IMAGE -->
+    <div class="col-md-4 col-sm-4">
+      <div class="phone-image wow bounceIn animated" data-wow-offset="120" data-wow-duration="1.5s">
+        <img src="images/content/EZYPRO_0030v2.png" alt="">
+      </div>
+    </div>
+
+    <!-- FEATURES RIGHT -->
+    <div class="col-md-4 col-sm-4 features-right wow fadeInRight animated" data-wow-offset="10" data-wow-duration="1.5s">
+
+      <!-- FEATURE -->
+      <div class="feature">
+
+        <!-- ICON -->
+        <div class="icon-container">
+          <div class="icon">
+            <i class="icon_heart_alt"></i>
+          </div>
+        </div>
+
+        <!-- FEATURE HEADING AND DESCRIPTION -->
+        <div class="feature-details">
+          <h4 class="main-color">
+            <span class="lang-en">Stay healthy</span>
+            <span class="lang-da">Hold dig sund</span>
+          </h4>
+          <p>
+            <span class="lang-en">
+              EZYPRO provides essential amino acids with <strong>low</strong> carb (0,69 g), <strong>low</strong> fat (0,4 g), <strong>zero</strong> added sugar, <strong>zero</strong> aspartame, <strong>zero</strong> lactose and vegetarian
+            </span>
+            <span class="lang-da">
+              EZYPRO indeholder essentielle aminosyrer med <strong>lav</strong> kulhydrat (0,69 g), <strong>lavt</strong> fedtindhold (0,4 g), <strong>intet</strong> tilsat sukker, <strong>ingen</strong> aspartam, <strong>ingen</strong> laktose - og så er det vegetarisk
+            </span>
+          </p>
+        </div>
+
+      </div>
+
+      <!-- /END SINGLE FEATURE -->
+
+      <!-- FEATURE -->
+      <div class="feature">
+
+        <!-- ICON -->
+        <div class="icon-container">
+          <div class="icon">
+            <i class="icon_lightbulb_alt"></i>
+          </div>
+        </div>
+
+        <!-- FEATURE HEADING AND DESCRIPTION -->
+        <div class="feature-details">
+          <h4 class="main-color">Handy</h4>
+          <p>
+            <span class="lang-en">
+              With a size of only 10x22 cm and a total weight of 46 grams EZYPRO is <strong>easy to carry anywhere</strong>.<br />
+              Fits in your pocket like a phone!
+            </span>
+            <span class="lang-da">
+              Med en størrelse på kun 10x22 cm og en totalvægt på 46 gram er EZYPRO <strong>let at tage med overalt</strong>.<br />
+              Passer i din lomme som en mobil!
+            </span>
+          </p>
+        </div>
+
+      </div>
+      <!-- /END SINGLE FEATURE -->
+
+      <!-- FEATURE -->
+      <div class="feature">
+
+        <!-- ICON -->
+        <div class="icon-container">
+          <div class="icon">
+            <i class="icon_globe-2"></i>
+          </div>
+        </div>
+
+        <!-- FEATURE HEADING AND DESCRIPTION -->
+        <div class="feature-details">
+          <h4 class="main-color">
+            <span class="lang-en">Forget the mess</span>
+            <span class="lang-da">Glem rodet</span>
+          </h4>
+          <p>
+            <span class="lang-en">
+              Avoid dishes and spilled protein powder. Just dispose of the <strong>environmentally friendly</strong> packaging when done
+            </span>
+            <span class="lang-da">
+              Undgå opvask og spildt proteinpulver. Bare smid den <strong>miljøvenlige</strong> emballage ud, når du er færdig
+            </span>
+          </p>
+        </div>
+
+      </div>
+      <!-- /END SINGLE FEATURE -->
+
+
+    </div>
+    <!-- /END FEATURES RIGHT -->
+
+  </div>
+  <!-- /END ROW -->
+
+</div>
+<!-- /END CONTAINER -->
+
+</section>
+<!-- /END FEATURES SECTION -->
+
+
+<!-- =========================
+     BRIEF LEFT SECTION HOW IT WORKS
+============================== -->
+<section class="app-brief grey-bg" id="brief1">
+
+<div class="container">
+
+  <div class="row">
+
+    <!-- PHONES IMAGE -->
+    <div class="col-md-6 wow fadeInRight animated" data-wow-offset="10" data-wow-duration="1.5s">
+      <div class="phone-image">
+        <img src="images/content/EZYPRO_0099v2.png" alt="">
+      </div>
+    </div>
+
+    <!-- RIGHT SIDE WITH BRIEF -->
+    <div class="col-md-6 left-align wow fadeInLeft animated" data-wow-offset="10" data-wow-duration="1.5s">
+
+      <!-- SECTION TITLE -->
+      <h2 class="dark-text">
+        <span class="lang-en">How it works</span>
+        <span class="lang-da">Sådan gør du</span>
+      </h2>
+
+      <div class="colored-line-left">
+      </div>
+
+      <p>
+        <span class="lang-en">
+          EZYPRO is a transportable disposable protein shake that only needs liquid. Just add water until it reaches the line on the back of the shake. Then shake for 30 seconds and enjoy your proteins.
+        </span>
+        <span class="lang-da">
+          EZYPRO er en transportabel, engangs-protein shake hvori der blot skal tilsættes vand. Hæld vand op til linien på bagsiden af shaken. Ryst den derefter i 30 sekunder og nyd dine proteiner.
+        </span>
+        <br />
+        <br />
+<!--      </p>
+      <p> -->
+        <img width="280px" src="images/fill-shake-drink-black.png" alt="">
+      </p>
+
+      <!-- FEATURE LIST -->
+      <ul class="feature-list">
+        <li>
+          <i class="icon_headphones"></i>
+          <span class="lang-en">For your pre- and post-workout session</span>
+          <span class="lang-da">Til før og efter din træning</span>
+        </li>
+        <li>
+          <i class="icon_globe"></i>
+          <span class="lang-en">Bring while traveling</span>
+          <span class="lang-da">Tages nemt med på rejsen</span>
+        </li>
+        <li>
+          <i class="icon_pens_alt"></i>
+          <span class="lang-en">When you're busy</span>
+          <span class="lang-da">Når du har travlt</span>
+        </li>
+        <li>
+          <i class="icon_pin_alt"></i>
+          <span class="lang-en">When you need a healthy snack</span>
+          <span class="lang-da">Når du har brug for en sund snack</span>
+        </li>
+      </ul>
+
+    </div>
+    <!-- /END RIGHT BRIEF -->
+
+  </div>
+  <!-- /END ROW -->
+
+</div>
+<!-- /END CONTAINER -->
+
+</section>
+<!-- /END SECTION -->
+
+<!-- =========================
+     POWER BLEND GREAT FOR BREAKFAST
+============================== XX>
+<section class="testimonials powerblend">
+
+<div class="color-overlay">
+
+  <div class="container wow fadeIn animated" data-wow-offset="10" data-wow-duration="1.5s">
+
+    <!-- FEEDBACKS XX>
+    <div id="" class="">
+
+      <!-- SINGLE FEEDBACK XX>
+      <div class="feedback">
+        <h3>
+          <span class="lang-en">Power Blend & porridge</span>
+          <span class="lang-da">Power Blend & porridge</span>
+        </h3>
+        <h1>
+            <span class="lang-en">Great for breakfast</span>
+            <span class="lang-da">Et super morgenmåltid</span>
+        </h1>
+      </div>
+      <!-- /END SINGLE FEEDBACK XX>
+    </div>
+    <!-- /END FEEDBACKS XX>
+  </div>
+  <!-- /END CONTAINER XX>
+</div>
+<!-- /END COLOR OVERLAY XX>
+</section>
+<!-- /END POWER BLEND SECTION XX>
