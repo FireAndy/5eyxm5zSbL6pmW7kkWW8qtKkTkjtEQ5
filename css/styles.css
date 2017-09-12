@@ -1039,7 +1039,7 @@ object {
 
 footer {
     background: #b1c9e9;
-    color: white;
+    color: black;
 }
 footer h2 {
     margin-top: 80px;
@@ -1054,7 +1054,7 @@ footer h4 {
 }
 
 footer p {
-    height: 115px;
+    height: 60px;
 }
 
 footer .contact-box {
@@ -1129,7 +1129,7 @@ footer .social-icons li {
 
 footer .social-icons li a {
     font-size: 30px;
-    color: white;
+    color: black;
 }
 
 footer .address {
