@@ -282,7 +282,7 @@ h5 {
 }
 
 .colored-line-left {
-    float: left;
+    float: middle;
     z-index: 1;
     display: block;
     width: 165px;
@@ -477,13 +477,12 @@ header .intro-section .buttons {
 }
 
 .buybox-left .buybox-container {
-    text-align: right;
-    margin-right: 145px;
+    text-align: center;
+    
 }
 
 .buybox-right .buybox-container {
-    text-align: left;
-    margin-left: 145px;
+    text-align: center;
 }
 
 .powerblend .buybox-container {
@@ -493,6 +492,11 @@ header .intro-section .buttons {
 .buybox-text,
 .buybox-text-fixed {
     padding: 15px 0;
+}
+
+.image-hover {
+    padding: 15px 0;
+    
 }
 
 .buybox img.flask {
@@ -539,8 +543,9 @@ header .intro-section .buttons {
 }
 
 .buynow-group .free-shipping {
-    width: 100%;
+    
     margin-left: 0 !important;
+    
 }
 
 .buybox-left .free-shipping {
@@ -548,12 +553,14 @@ header .intro-section .buttons {
 }
 
 .buybox-right .free-shipping {
-    margin-left: 105px;
+    margin-left: 0px;
     float: left;
 }
 
 .buynow-group {
     position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .buynow-group .left,
@@ -664,6 +671,55 @@ header .intro-section .buttons {
 
 .msf {
     padding-top: 80px;
+}
+
+/*---------------------------------------
+    Hover Over img
+---------------------------------------*/
+.image-hover {
+  
+}
+.overlayhover {
+  position: absolute;
+  top: 100px;
+  bottom: 500x;
+  left: 0;
+  right: 0;
+  height: 80%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: white;
+}
+.overlayhover2 {
+  position: absolute;
+  top: 100px;
+  bottom: 500x;
+  left: 0;
+  right: 0;
+  height: 80%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #F7F8FA;
+}
+
+.image-hover:hover .overlayhover {
+  opacity: 0.85;
+}
+
+.image-hover:hover .overlayhover2 {
+  opacity: 0.85;
+}
+
+.textinside {
+  text-align: left;
+  color: black;
+  font-size: 16px;
+  position: relative;
+  top: 2%;
+  left: 20%;
+  
 }
 
 /*---------------------------------------
@@ -1040,6 +1096,7 @@ object {
 footer {
     background: #b1c9e9;
     color: black;
+    
 }
 footer h2 {
     margin-top: 80px;
