@@ -241,6 +241,11 @@ h5 {
     background: #F7F8FA !important;
 }
 
+.blue-bg {
+    background:#cde0fa;
+    /*#cde0fa*/
+    /*:#c2d7f3*/
+}
 
 /*---------------------------------------
    SECTIONS
@@ -430,18 +435,22 @@ header .only-logo .navbar .navbar-header img {
     margin-left: 24px;
 }
 
+.textslideshow-element{
+    
+}
 /*---------------------------------------
    SECTION:  INTRO SECTION
 -----------------------------------------*/
 
 header .intro-section {
     margin: auto;
-    padding-top: 15%;
+    padding-top: 12%;
 }
 
 header .intro-section h1.intro {
     color: #ffffff;
     margin-bottom: 36px;
+        
 }
 
 header .intro-section h5 {
@@ -686,7 +695,7 @@ header .intro-section .buttons {
   left: 0;
   right: 0;
   height: 80%;
-  width: 100%;
+  width: 110%;
   opacity: 0;
   transition: .5s ease;
   background-color: white;
@@ -701,7 +710,8 @@ header .intro-section .buttons {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #F7F8FA;
+  
+  background-color: #cde0fa;
 }
 
 .image-hover:hover .overlayhover {
@@ -716,7 +726,7 @@ header .intro-section .buttons {
   text-align: left;
   color: black;
   font-size: 16px;
-  position: relative;
+  position: absolute;
   top: 2%;
   left: 20%;
   
@@ -1044,7 +1054,7 @@ object {
    SECTION:  DOWNLOAD
 -----------------------------------------*/
 .download {
-    background: url('../images/big/enfirkantetsoe2.jpg') no-repeat center fixed;
+    background: url('../images/big/shake.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
     background-size: cover;
     color: #ffffff;
@@ -1088,6 +1098,17 @@ object {
     margin-bottom: 30px;
 }
 
+/*---------------------------------------
+   SECTION:  INSTAGRAM
+-----------------------------------------*/
+
+.instagram {
+    
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color: rgb(177, 201, 233);    
+
+}
 
 /*---------------------------------------
    SECTION:  FOOTER

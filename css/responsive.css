@@ -301,6 +301,12 @@ RESPONSIVE FIXES
 	.buybox-right .buybox-container {
 		margin-top: 60px;
 	}
+
+	.powerblend .buybox-container {
+		margin: 0;
+		margin-top: 60px;
+	}
+
 	.buybox-right .overlayhover {
 		margin-top: 60px;
 	}
@@ -311,10 +317,12 @@ RESPONSIVE FIXES
 		margin: 0;
 		margin-top: 60px;
 	}
+
 	.powerblend .overlayhover2 {
 		margin: 0;
 		margin-top: 60px;
-	}
+	}  
+      
 	.features .features-left,
 	.features .features-right {
 		text-align: center;

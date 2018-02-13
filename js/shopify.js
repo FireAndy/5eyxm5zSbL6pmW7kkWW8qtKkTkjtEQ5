@@ -195,7 +195,7 @@
     //   });
     // });    
     
-    //PB Strawberry
+      //PB Strawberry
     // ShopifyBuy.UI.onReady(client).then(function (ui) {
     //   ui.createComponent('product', {
     //     id: [9542082567],
@@ -205,11 +205,21 @@
     //   });
     // }); 
       
+    //PB 3 variant 200g
+     ShopifyBuy.UI.onReady(client).then(function (ui) {
+       ui.createComponent('product', {
+         id: [12450101075],
+         node: document.getElementById('product-component-a15233353a7'),
+         moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
+         options: options
+       });
+     }); 
+      
       //OMEGA 3
      ShopifyBuy.UI.onReady(client).then(function (ui) {
        ui.createComponent('product', {
          id: [12273117651],
-         node: document.getElementById('product-component-a15233353a7'),
+         node: document.getElementById('product-component-ef1da729b1e'),
          moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
          options: options
        });
@@ -223,7 +233,17 @@
         moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
         options: options
       });
-    });    
+    });
+      
+    //10 PCS Shakes
+     ShopifyBuy.UI.onReady(client).then(function (ui) {
+       ui.createComponent('product', {
+         id: [190660476947],
+         node: document.getElementById('product-component-f5b0a504361'),
+         moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
+         options: options
+       });
+     });       
 
     // Make a unique copy, not a linked reference:
     var powerMoringaOptions = JSON.parse(JSON.stringify(options));
