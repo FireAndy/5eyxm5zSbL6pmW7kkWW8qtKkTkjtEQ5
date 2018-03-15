@@ -185,15 +185,15 @@
       });
     });
 
-    //PB Vanilla
-    // ShopifyBuy.UI.onReady(client).then(function (ui) {
-    //   ui.createComponent('product', {
-    //     id: [9542061511],
-    //     node: document.getElementById('product-component-ef1da729b1e'),
-    //     moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
-    //     options: options
-    //   });
-    // });    
+    //PB Coffee
+     ShopifyBuy.UI.onReady(client).then(function (ui) {
+       ui.createComponent('product', {
+         id: [536334860348],
+         node: document.getElementById('product-component-k3h113au84g'),
+         moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
+         options: options
+       });
+     });    
     
       //PB Strawberry
     // ShopifyBuy.UI.onReady(client).then(function (ui) {
