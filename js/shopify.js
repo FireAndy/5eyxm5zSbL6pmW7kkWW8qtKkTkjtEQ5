@@ -195,15 +195,15 @@
        });
      });    
     
-      //PB Strawberry
-    // ShopifyBuy.UI.onReady(client).then(function (ui) {
-    //   ui.createComponent('product', {
-    //     id: [9542082567],
-    //     node: document.getElementById('product-component-a15233353a7'),
-    //     moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
-    //     options: options
-    //   });
-    // }); 
+      //PB New Power Shake
+     ShopifyBuy.UI.onReady(client).then(function (ui) {
+       ui.createComponent('product', {
+         id: [7159823466556],
+         node: document.getElementById('product-component-f425613sf9'),
+         moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
+         options: options
+       });
+     }); 
       
     //PB 3 variant 200g
      ShopifyBuy.UI.onReady(client).then(function (ui) {
