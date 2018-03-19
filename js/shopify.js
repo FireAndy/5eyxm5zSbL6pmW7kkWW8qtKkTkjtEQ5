@@ -198,7 +198,7 @@
       //PB New Power Shake
      ShopifyBuy.UI.onReady(client).then(function (ui) {
        ui.createComponent('product', {
-         id: [7159823466556],
+         id: [544525385788],
          node: document.getElementById('product-component-f425613sf9'),
          moneyFormat: '%7B%7Bamount_with_comma_separator%7D%7D%20kr',
          options: options

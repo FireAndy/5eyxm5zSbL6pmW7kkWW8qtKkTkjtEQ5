@@ -731,6 +731,15 @@ header .intro-section .buttons {
   left: 20%;
   
 }
+.textinside2 {
+  text-align: left;
+  color: black;
+  font-size: 16px;
+  position: absolute;
+  top: 2%;
+  left: 35%;
+  
+}
 
 /*---------------------------------------
    SECTION:  BRIEF
